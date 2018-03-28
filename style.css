@@ -3,9 +3,10 @@
  */
 
 @font-face {
-  font-family: klingon;
-  src: url('klingon-font.ttf')
+  font-family: 'klingon';
+  src: url('klingon-font.ttf') format('truetype');
 }
+
 
 .logo {
     width: 100%;
