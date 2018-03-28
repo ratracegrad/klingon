@@ -3,8 +3,8 @@
  */
 
 @font-face {
-  font-family: KlingonFont;
-  src: local('klingon.TTF')
+  font-family: klingon;
+  src: url('klingon-font.ttf')
 }
 
 .logo {
