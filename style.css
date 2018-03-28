@@ -1,0 +1,92 @@
+/*
+ * font-family: 'PT Sans Narrow', sans-serif;
+ */
+
+@font-face {
+  font-family: KlingonFont;
+  src: url(Klingon.TTF)
+}
+
+.logo {
+    width: 100%;
+}
+
+.image {
+    background-color: black;
+}
+
+.title {
+    font-family: KlingonFont;
+    background-color: black;
+    color: white;
+    font-size: 50px;
+    letter-spacing: 3px;
+}
+
+.sentence {
+    font-family: 'PT Sans Narrow', sans-serif;
+    background-color: black;
+    color: white;
+}
+
+.directions {
+    font-family: 'PT Sans Narrow', sans-serif;
+    color: #F9312E;
+}
+
+.words {
+    background-color: black;
+    border:
+    font-size: 40px;
+}
+
+#word-container {
+    border: 2px white dotted;
+}
+
+.buttons {
+    font-family: 'PT Sans Narrow', sans-serif;
+    background-color: black;
+    color: white;
+}
+
+.word-button {
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+}
+
+.word-button:hover {
+    color: #F9312E;
+}
+
+
+.check {
+    font-family: 'PT Sans Narrow', sans-serif;
+    background-color: black;
+    width: auto;
+    font-size: 20px;
+
+}
+
+#submit {
+    background-color: #F9312E;
+    color: white;
+    width: 100%;
+    border: black;
+}
+
+.copyright {
+    font-family: 'PT Sans Narrow', sans-serif;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.email {
+    color: #F9312E;
+}
+
+.email:hover {
+    color: white;
+}
