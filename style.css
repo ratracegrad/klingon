@@ -2,9 +2,13 @@
  * font-family: 'PT Sans Narrow', sans-serif;
  */
 
-@font-face {
+/* @font-face {
   font-family: 'klingon';
   src: url('klingon-font.ttf') format('truetype');
+} */
+@font-face {
+    font-family: 'klingon';
+    src: url('klingon.TTF') format('truetype');
 }
 
 
